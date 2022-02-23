@@ -1,0 +1,107 @@
+.cot{
+    width: 25%;
+    float: left;
+}
+.sp{
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+.ten{
+    font-variant: small-caps;
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+}
+.img{
+    max-width: 98%;
+    height: 260px;
+    margin-bottom: 10px;
+}
+.i1{
+    position: absolute;
+    float: left;
+    width: 30px;
+    bottom: 85px;
+    right: 10px;
+}
+.i2{
+    position: absolute;
+    float: left;
+    width: 30px;
+    bottom: 55px;
+    right: 10px;
+}
+.i3{
+    position: absolute;
+    float: left;
+    width: 30px;
+    bottom: 25px;
+    right: 10px;
+}
+.new{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 70px;
+}
+.gia{
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    font-family: Impact;
+    color: red;
+}
+.container>header{
+    position: relative;
+}
+.in{
+    position: absolute;
+    left: 20px;
+    bottom: 30px;
+    font-variant: small-caps;
+    font-size: 20px;
+}
+.lo{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background-color: orangered;
+    Border-bottom-left-radius: 30px;
+    
+}
+.lo>ul>li{
+    list-style: none;
+    float: left;
+    margin-right: 30px;
+    font-variant: small-caps;
+    height: 30px;
+}
+.lo>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.lo>ul>li>a:hover{
+    color: yellow;
+}
+.container>header>img{
+    width: 100%;
+}
+.in>h1{
+    padding: 0px;
+    margin: 0px;
+    font-family: Impact;
+    font-size: 55px;
+    color: white;
+    letter-spacing: 3px;
+    border-bottom: 1px dotted white;
+    
+}
+.in>h3{
+    font-size: larger;
+    letter-spacing: 4px;
+    color: white;
+}
